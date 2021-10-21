@@ -1,8 +1,4 @@
 
-//Neon.AI
-
-
-
 import numpy as np
 import re
 import nltk
