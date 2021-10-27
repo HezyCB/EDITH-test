@@ -4,7 +4,7 @@ import re
 import nltk
 from keras.layers import Input, Embedding, LSTM, TimeDistributed, Dense, Bidirectional
 from keras.models import Model, load_model
-import tensorflow as tf
+import tflite as tf
 from keras.layers import SimpleRNN
 from keras.layers import Embedding
 from keras.layers import Input, Dense, LSTM, TimeDistributed
